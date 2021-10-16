@@ -1,5 +1,7 @@
 # Spaceship-Badge
 
+![alt text](https://raw.githubusercontent.com/DigiTorus86/Spaceship-Badge/master/images/alien-spaceship.png)
+
 The CodeMash 2022 Spaceship Badge is great little souvenir and conversation starter that also serves
 as an easy introduction to surface mount soldering and the endless possibilities of the 555 timer.
 
